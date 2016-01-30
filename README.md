@@ -29,6 +29,5 @@ Good luck!
 Files and results
 ================
 
-The R code from this assignment is included in this repository as run_analysis.r
-The resulting tidy data is stored as average.txt
-and the code book for reading this file is stored as codebook.txt
+The R code to run this assignment is included in this repository as run_analysis.r. You should run it in your workdirectory and the script will download the dataset following the link above. The resulting tidy data is stored as Samsung_averaged_data.txt
+and the code book for reading this file is stored as Codebook.md, it includes a short description of how run_analysis_r works and describes the labels and dimensions of the resulting dataset Samsung_averaged_data.txt
