@@ -21,12 +21,19 @@ Our script takes this dataset as input
 Description of run_analysis.R
 =============================
 Steps in this code
+
 1 Downloading the data
+
 2 Merges the training and the test sets to create one data set using various rbind and cbind commands
+
 3 Extracts only the measurements on the mean and standard deviation for each measurement using the grep function
+
 4 Uses descriptive activity names to name the activities in the data set
+
 5 Appropriately labels the data set with descriptive variable names.
+
 6 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject. For this we use the ddply function from the plyr library
+
 7 Write data to the dataset Samsung_averaged_dataset.txt
 
 Codebook Samsung_averaged_dataset.txt
