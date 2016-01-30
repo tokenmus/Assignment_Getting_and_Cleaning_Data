@@ -2,6 +2,9 @@
 Introduction
 ============
 
+This codebook describes the original dataset that our script run_analysis.R takes and provides a short description of the steps in the r script. The resulting dataset, its labels and dimensions are covered in the Codebook section.
+
+
 Background
 ==========
 
